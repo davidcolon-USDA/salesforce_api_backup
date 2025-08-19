@@ -35,3 +35,28 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# MACOS and Py
+*.pyc
+__pycache__/
+
+venv
+.venv/
+env/
+.env
+config.ini
+
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+*.log
+*.tmp
+*.temp
+

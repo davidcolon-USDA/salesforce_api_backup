@@ -1,0 +1,10 @@
+variable "region" {}
+variable "s3_bucket_name_scripts" {}
+variable "s3_bucket_name_salesforce" {}
+variable "glue_role_name" {}
+variable "glue_job_name" {}
+variable "glue_script_key" {}
+variable "glue_script_name" {}
+variable "glue_script_config_key" {}
+variable "glue_script_config_name" {}
+variable "salesforce_secret_name" {}
